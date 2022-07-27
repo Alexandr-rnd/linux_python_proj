@@ -1,0 +1,234 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.1 166668 11808 ?        Ss   10:47   0:01 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    10:47   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   10:47   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   10:47   0:00 [rcu_par_gp]
+root           5  0.0  0.0      0     0 ?        I<   10:47   0:00 [netns]
+root           7  0.0  0.0      0     0 ?        I<   10:47   0:00 [kworker/0:0H-events_highpri]
+root           9  0.0  0.0      0     0 ?        I<   10:47   0:00 [mm_percpu_wq]
+root          10  0.0  0.0      0     0 ?        S    10:47   0:00 [rcu_tasks_rude_]
+root          11  0.0  0.0      0     0 ?        S    10:47   0:00 [rcu_tasks_trace]
+root          12  0.0  0.0      0     0 ?        S    10:47   0:00 [ksoftirqd/0]
+root          13  0.1  0.0      0     0 ?        I    10:47   0:04 [rcu_sched]
+root          14  0.0  0.0      0     0 ?        S    10:47   0:00 [migration/0]
+root          15  0.0  0.0      0     0 ?        S    10:47   0:00 [idle_inject/0]
+root          17  0.0  0.0      0     0 ?        S    10:47   0:00 [cpuhp/0]
+root          18  0.0  0.0      0     0 ?        S    10:47   0:00 [cpuhp/1]
+root          19  0.0  0.0      0     0 ?        S    10:47   0:00 [idle_inject/1]
+root          20  0.0  0.0      0     0 ?        S    10:47   0:01 [migration/1]
+root          21  0.0  0.0      0     0 ?        S    10:47   0:00 [ksoftirqd/1]
+root          23  0.0  0.0      0     0 ?        I<   10:47   0:00 [kworker/1:0H-events_highpri]
+root          24  0.0  0.0      0     0 ?        S    10:47   0:00 [cpuhp/2]
+root          25  0.0  0.0      0     0 ?        S    10:47   0:00 [idle_inject/2]
+root          26  0.0  0.0      0     0 ?        S    10:47   0:01 [migration/2]
+root          27  0.0  0.0      0     0 ?        S    10:47   0:00 [ksoftirqd/2]
+root          29  0.0  0.0      0     0 ?        I<   10:47   0:00 [kworker/2:0H-kblockd]
+root          30  0.0  0.0      0     0 ?        S    10:47   0:00 [cpuhp/3]
+root          31  0.0  0.0      0     0 ?        S    10:47   0:00 [idle_inject/3]
+root          32  0.0  0.0      0     0 ?        S    10:47   0:01 [migration/3]
+root          33  0.0  0.0      0     0 ?        S    10:47   0:00 [ksoftirqd/3]
+root          35  0.0  0.0      0     0 ?        I<   10:47   0:00 [kworker/3:0H-kblockd]
+root          36  0.0  0.0      0     0 ?        S    10:47   0:00 [kdevtmpfs]
+root          37  0.0  0.0      0     0 ?        I<   10:47   0:00 [inet_frag_wq]
+root          38  0.0  0.0      0     0 ?        S    10:47   0:00 [kauditd]
+root          39  0.0  0.0      0     0 ?        S    10:47   0:00 [khungtaskd]
+root          40  0.0  0.0      0     0 ?        S    10:47   0:00 [oom_reaper]
+root          41  0.0  0.0      0     0 ?        I<   10:47   0:00 [writeback]
+root          42  0.0  0.0      0     0 ?        S    10:47   0:00 [kcompactd0]
+root          43  0.0  0.0      0     0 ?        SN   10:47   0:00 [ksmd]
+root          44  0.0  0.0      0     0 ?        SN   10:47   0:00 [khugepaged]
+root          83  0.0  0.0      0     0 ?        I    10:47   0:01 [kworker/2:1-events]
+root          93  0.0  0.0      0     0 ?        I<   10:47   0:00 [kintegrityd]
+root          94  0.0  0.0      0     0 ?        I<   10:47   0:00 [kblockd]
+root          95  0.0  0.0      0     0 ?        I<   10:47   0:00 [blkcg_punt_bio]
+root          96  0.0  0.0      0     0 ?        I<   10:47   0:00 [tpm_dev_wq]
+root          97  0.0  0.0      0     0 ?        I<   10:47   0:00 [ata_sff]
+root          98  0.0  0.0      0     0 ?        I<   10:47   0:00 [md]
+root          99  0.0  0.0      0     0 ?        I<   10:47   0:00 [edac-poller]
+root         100  0.0  0.0      0     0 ?        I<   10:47   0:00 [devfreq_wq]
+root         101  0.0  0.0      0     0 ?        S    10:47   0:00 [watchdogd]
+root         103  0.0  0.0      0     0 ?        I<   10:47   0:00 [kworker/1:1H-kblockd]
+root         105  0.0  0.0      0     0 ?        S    10:47   0:00 [kswapd0]
+root         106  0.0  0.0      0     0 ?        S    10:47   0:00 [ecryptfs-kthrea]
+root         108  0.0  0.0      0     0 ?        I<   10:47   0:00 [kthrotld]
+root         109  0.0  0.0      0     0 ?        I<   10:47   0:00 [acpi_thermal_pm]
+root         111  0.0  0.0      0     0 ?        S    10:47   0:00 [scsi_eh_0]
+root         112  0.0  0.0      0     0 ?        I<   10:47   0:00 [scsi_tmf_0]
+root         113  0.0  0.0      0     0 ?        S    10:47   0:00 [scsi_eh_1]
+root         114  0.0  0.0      0     0 ?        I<   10:47   0:00 [scsi_tmf_1]
+root         116  0.0  0.0      0     0 ?        I<   10:47   0:00 [vfio-irqfd-clea]
+root         117  0.0  0.0      0     0 ?        I<   10:47   0:00 [mld]
+root         118  0.0  0.0      0     0 ?        I<   10:47   0:00 [ipv6_addrconf]
+root         121  0.0  0.0      0     0 ?        I<   10:47   0:01 [kworker/2:1H-kblockd]
+root         123  0.0  0.0      0     0 ?        I<   10:47   0:00 [kworker/3:1H-kblockd]
+root         124  0.1  0.0      0     0 ?        I    10:47   0:05 [kworker/3:2-mm_percpu_wq]
+root         132  0.0  0.0      0     0 ?        I<   10:47   0:00 [kstrp]
+root         135  0.0  0.0      0     0 ?        I<   10:47   0:00 [zswap-shrink]
+root         136  0.0  0.0      0     0 ?        I<   10:47   0:00 [kworker/u9:0]
+root         141  0.0  0.0      0     0 ?        I<   10:47   0:00 [charger_manager]
+root         172  0.0  0.0      0     0 ?        I<   10:47   0:02 [kworker/0:1H-kblockd]
+root         191  0.0  0.0      0     0 ?        S    10:47   0:00 [scsi_eh_2]
+root         192  0.0  0.0      0     0 ?        I<   10:47   0:00 [scsi_tmf_2]
+root         221  0.0  0.0      0     0 ?        S    10:47   0:00 [jbd2/sda3-8]
+root         222  0.0  0.0      0     0 ?        I<   10:47   0:00 [ext4-rsv-conver]
+root         262  0.0  0.1  48560 21812 ?        S<s  10:47   0:00 /lib/systemd/systemd-journald
+root         289  0.0  0.0      0     0 ?        I<   10:47   0:00 [ipmi-msghandler]
+root         291  0.0  0.0      0     0 ?        I<   10:47   0:00 [ttm_swap]
+root         293  0.1  0.0      0     0 ?        S    10:47   0:06 [irq/18-vmwgfx]
+root         294  0.0  0.0      0     0 ?        S    10:47   0:00 [card0-crtc0]
+root         295  0.0  0.0      0     0 ?        S    10:47   0:00 [card0-crtc1]
+root         296  0.0  0.0      0     0 ?        S    10:47   0:00 [card0-crtc2]
+root         297  0.0  0.0      0     0 ?        S    10:47   0:00 [card0-crtc3]
+root         298  0.0  0.0      0     0 ?        S    10:47   0:00 [card0-crtc4]
+root         299  0.0  0.0      0     0 ?        S    10:47   0:00 [card0-crtc5]
+root         300  0.0  0.0      0     0 ?        S    10:47   0:00 [card0-crtc6]
+root         301  0.0  0.0      0     0 ?        S    10:47   0:00 [card0-crtc7]
+root         318  0.0  0.0  26852  7184 ?        Ss   10:47   0:00 /lib/systemd/systemd-udevd
+systemd+     501  0.1  0.0  14776  6120 ?        Ss   10:47   0:04 /lib/systemd/systemd-oomd
+systemd+     502  0.0  0.1  25616 13736 ?        Ss   10:47   0:00 /lib/systemd/systemd-resolved
+systemd+     504  0.0  0.0  89324  6516 ?        Ssl  10:47   0:00 /lib/systemd/systemd-timesyncd
+root         590  0.0  0.0 249036  8008 ?        Ssl  10:47   0:00 /usr/libexec/accounts-daemon
+root         592  0.0  0.0   2812  1148 ?        Ss   10:47   0:00 /usr/sbin/acpid
+avahi        596  0.0  0.0   7624  3620 ?        Ss   10:47   0:00 avahi-daemon: running [alexandr-VirtualBox.local]
+root         597  0.0  0.0  18148  2972 ?        Ss   10:47   0:00 /usr/sbin/cron -f -P
+message+     600  0.0  0.0  10996  6724 ?        Ss   10:47   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         601  0.0  0.1 344124 19024 ?        Ssl  10:47   0:00 /usr/sbin/NetworkManager --no-daemon
+root         613  0.0  0.0  82696  3872 ?        Ssl  10:47   0:00 /usr/sbin/irqbalance --foreground
+root         614  0.0  0.1  48636 20712 ?        Ss   10:47   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         616  0.0  0.1 252308 11568 ?        Ssl  10:47   0:00 /usr/libexec/polkitd --no-debug
+root         617  0.0  0.0 249076  7768 ?        Ssl  10:47   0:00 /usr/libexec/power-profiles-daemon
+syslog       618  0.0  0.0 222400  5168 ?        Ssl  10:47   0:00 /usr/sbin/rsyslogd -n -iNONE
+root         621  0.0  0.3 1169944 41384 ?       Ssl  10:47   0:03 /usr/lib/snapd/snapd
+root         622  0.0  0.0 245320  6952 ?        Ssl  10:47   0:00 /usr/libexec/switcheroo-control
+root         627  0.0  0.0  23584  7924 ?        Ss   10:47   0:00 /lib/systemd/systemd-logind
+root         630  0.0  0.1 393148 13492 ?        Ssl  10:47   0:00 /usr/libexec/udisks2/udisksd
+root         631  0.0  0.0  16492  5744 ?        Ss   10:47   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        644  0.0  0.0   7440   340 ?        S    10:47   0:00 avahi-daemon: chroot helper
+root         661  0.0  0.1 317012 12124 ?        Ssl  10:47   0:00 /usr/sbin/ModemManager
+root         664  0.0  0.1  81816 14136 ?        Ss   10:47   0:00 /usr/sbin/cupsd -l
+root         711  0.0  0.2 126784 23408 ?        Ssl  10:47   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+lp           727  0.0  0.0  16284  5348 ?        S    10:47   0:00 /usr/lib/cups/notifier/dbus dbus://
+lp           728  0.0  0.0  16284  5396 ?        S    10:47   0:00 /usr/lib/cups/notifier/dbus dbus://
+lp           734  0.0  0.0  16284  5244 ?        S    10:47   0:00 /usr/lib/cups/notifier/dbus dbus://
+root         783  0.0  0.0 250060  9352 ?        Ssl  10:47   0:00 /usr/sbin/gdm3
+root         795  0.0  0.1 172608 11420 ?        Ssl  10:47   0:00 /usr/sbin/cups-browsed
+kernoops     801  0.0  0.0  13080  2532 ?        Ss   10:47   0:00 /usr/sbin/kerneloops --test
+kernoops     806  0.0  0.0  13080   452 ?        Ss   10:47   0:00 /usr/sbin/kerneloops
+root         814  0.0  0.0 179472 10908 ?        Sl   10:47   0:00 gdm-session-worker [pam/gdm-autologin]
+alexandr     851  0.0  0.1  21396 13248 ?        Ss   10:47   0:00 /lib/systemd/systemd --user
+alexandr     852  0.0  0.0 104112  3936 ?        S    10:47   0:00 (sd-pam)
+alexandr     858  0.0  0.0  48220  6588 ?        S<sl 10:47   0:00 /usr/bin/pipewire
+alexandr     859  0.0  0.0  32108  6360 ?        Ssl  10:47   0:00 /usr/bin/pipewire-media-session
+alexandr     860  0.0  0.2 1171484 29028 ?       S<sl 10:47   0:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+alexandr     862  0.0  0.2 308800 27460 ?        Ssl  10:47   0:02 /snap/snapd-desktop-integration/14/bin/snapd-desktop-integration
+alexandr     865  0.0  0.0 397128  8196 ?        SLl  10:47   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+rtkit        868  0.0  0.0 154000  1544 ?        SNsl 10:47   0:00 /usr/libexec/rtkit-daemon
+alexandr     873  0.0  0.0 171036  6368 tty2     Ssl+ 10:47   0:00 /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+alexandr     875  0.0  0.1  15868 12128 ?        Ss   10:47   0:01 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+alexandr     885  0.0  0.1 231680 15384 tty2     Sl+  10:47   0:00 /usr/libexec/gnome-session-binary --session=ubuntu
+alexandr     888  0.0  0.0 249540  8192 ?        Ssl  10:47   0:00 /usr/libexec/gvfsd
+alexandr     910  0.0  0.0 380884  6784 ?        Sl   10:47   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+alexandr     947  0.0  0.5 593996 65492 ?        Ssl  10:47   0:00 /usr/libexec/gnome-remote-desktop-daemon
+alexandr     949  0.0  0.0 100556  4984 ?        Ssl  10:47   0:00 /usr/libexec/gnome-session-ctl --monitor
+alexandr     961  0.0  0.1 732724 17772 ?        Ssl  10:47   0:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+alexandr     992  3.3  2.1 4189468 242720 ?      Ssl  10:47   2:06 /usr/bin/gnome-shell
+alexandr     993  0.0  0.0 309624  7916 ?        Sl   10:47   0:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+alexandr    1003  0.0  0.0   8428  4516 ?        S    10:47   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus
+alexandr    1057  0.0  0.0 545552  7416 ?        Ssl  10:47   0:00 /usr/libexec/xdg-document-portal
+alexandr    1061  0.0  0.0 244800  5268 ?        Ssl  10:47   0:00 /usr/libexec/xdg-permission-store
+root        1075  0.0  0.0   2792  1004 ?        Ss   10:47   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+alexandr    1148  0.0  0.1 796468 22132 ?        Sl   10:47   0:00 /usr/libexec/gnome-shell-calendar-server
+alexandr    1167  0.0  0.2 1084820 33168 ?       Ssl  10:47   0:00 /usr/libexec/evolution-source-registry
+root        1168  0.0  0.0 251156  9080 ?        Ssl  10:47   0:00 /usr/libexec/upowerd
+alexandr    1188  0.0  0.0 157092  6116 ?        Ssl  10:47   0:00 /usr/libexec/dconf-service
+alexandr    1191  0.0  0.6 643764 70916 ?        SLl  10:47   0:00 /usr/libexec/goa-daemon
+alexandr    1195  0.0  0.0 324584  9316 ?        Ssl  10:47   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+alexandr    1200  0.0  0.0 171700  6844 ?        Ssl  10:47   0:00 /usr/libexec/gvfsd-metadata
+alexandr    1206  0.0  0.0 245892  6964 ?        Ssl  10:47   0:00 /usr/libexec/gvfs-goa-volume-monitor
+alexandr    1214  0.0  0.4 1352504 53264 ?       Ssl  10:47   0:00 /usr/libexec/evolution-calendar-factory
+alexandr    1223  0.0  0.1 347040 15188 ?        Sl   10:47   0:00 /usr/libexec/goa-identity-service
+alexandr    1228  0.0  0.0 246064  7116 ?        Ssl  10:47   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+alexandr    1235  0.0  0.0 245108  6624 ?        Ssl  10:47   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+alexandr    1243  0.0  0.2 680872 28684 ?        Ssl  10:47   0:00 /usr/libexec/evolution-addressbook-factory
+alexandr    1244  0.0  0.0 323852  8312 ?        Ssl  10:47   0:00 /usr/libexec/gvfs-afc-volume-monitor
+root        1265  0.0  0.2 381772 26104 ?        Ssl  10:47   0:03 /usr/libexec/packagekitd
+alexandr    1281  0.0  0.0 323948  8488 ?        Sl   10:47   0:00 /usr/libexec/gvfsd-trash --spawner :1.6 /org/gtk/gvfs/exec_spaw/0
+alexandr    1288  0.0  0.1 632448 14328 ?        Ssl  10:47   0:00 /usr/libexec/xdg-desktop-portal
+alexandr    1296  0.0  0.2 671652 29536 ?        Ssl  10:47   0:00 /usr/libexec/xdg-desktop-portal-gnome
+alexandr    1300  0.0  0.0 162676  7372 ?        Sl   10:47   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+alexandr    1302  0.0  0.2 2677692 27712 ?       Sl   10:47   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+alexandr    1312  0.0  0.0   2888   936 ?        Ss   10:47   0:00 sh -c /usr/bin/ibus-daemon --panel disable $([ "$XDG_SESSION_TYPE" = "x11" ] && echo "--xim")
+alexandr    1313  0.0  0.0 319076  6780 ?        Ssl  10:47   0:00 /usr/libexec/gsd-a11y-settings
+alexandr    1315  0.0  0.2 533448 25648 ?        Ssl  10:47   0:00 /usr/libexec/gsd-color
+alexandr    1316  0.0  0.1 384116 16536 ?        Ssl  10:47   0:00 /usr/libexec/gsd-datetime
+alexandr    1322  0.0  0.0 320580  7528 ?        Ssl  10:47   0:00 /usr/libexec/gsd-housekeeping
+alexandr    1323  0.1  0.1 323508 11752 ?        Sl   10:47   0:07 /usr/bin/ibus-daemon --panel disable
+alexandr    1324  0.0  0.1 349240 22124 ?        Ssl  10:47   0:00 /usr/libexec/gsd-keyboard
+alexandr    1326  0.0  0.2 725388 26712 ?        Ssl  10:47   0:00 /usr/libexec/gsd-media-keys
+alexandr    1334  0.0  0.2 385476 25952 ?        Ssl  10:47   0:00 /usr/libexec/gsd-power
+alexandr    1335  0.0  0.1 258496 11804 ?        Ssl  10:47   0:00 /usr/libexec/gsd-print-notifications
+alexandr    1337  0.0  0.0 466500  6736 ?        Ssl  10:47   0:00 /usr/libexec/gsd-rfkill
+alexandr    1343  0.0  0.0 244932  6532 ?        Ssl  10:47   0:00 /usr/libexec/gsd-screensaver-proxy
+alexandr    1352  0.0  0.0 474596 10024 ?        Ssl  10:47   0:00 /usr/libexec/gsd-sharing
+alexandr    1354  0.0  0.0 320956  8064 ?        Ssl  10:47   0:00 /usr/libexec/gsd-smartcard
+alexandr    1359  0.0  0.0 327992  9420 ?        Ssl  10:47   0:00 /usr/libexec/gsd-sound
+alexandr    1374  0.0  0.1 423572 22264 ?        Ssl  10:47   0:00 /usr/libexec/gsd-wacom
+alexandr    1391  0.0  0.0 245968  7496 ?        Sl   10:47   0:00 /usr/libexec/ibus-dconf
+alexandr    1392  0.0  0.2 356444 28776 ?        Sl   10:47   0:01 /usr/libexec/ibus-extension-gtk3
+alexandr    1401  0.0  0.0 245904  7636 ?        Sl   10:47   0:00 /usr/libexec/ibus-portal
+alexandr    1404  0.0  0.0 232260  6764 ?        Sl   10:47   0:00 /usr/libexec/gsd-disk-utility-notify
+alexandr    1411  0.0  0.5 810144 65304 ?        Sl   10:47   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+alexandr    1417  0.0  0.1 351000 13756 ?        Sl   10:47   0:00 /usr/libexec/gsd-printer
+alexandr    1482  0.1  1.2 1059696 144372 ?      Sl   10:47   0:04 /snap/snap-store/575/usr/bin/snap-store --gapplication-service
+alexandr    1516  0.0  0.0 172264  7336 ?        Sl   10:47   0:02 /usr/libexec/ibus-engine-simple
+alexandr    1607  0.0  0.2 2612248 28396 ?       Sl   10:47   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver
+alexandr    1608  0.0  0.2 353108 25856 ?        Ssl  10:47   0:00 /usr/libexec/xdg-desktop-portal-gtk
+colord      1626  0.0  0.1 254368 13384 ?        Ssl  10:47   0:00 /usr/libexec/colord
+alexandr    1630  0.0  0.5 2877832 65360 ?       Sl   10:47   0:01 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com -M 0 -D 0:0:1920:1080:1:27:0:66:0:0
+alexandr    1633  0.0  0.2 644276 25148 ?        SNsl 10:47   0:01 /usr/libexec/tracker-miner-fs-3
+root        1728  0.0  0.2 402648 32584 ?        Ssl  10:47   0:00 /usr/libexec/fwupd/fwupd
+alexandr    2059  0.0  0.2 502548 30364 ?        Sl   10:48   0:00 update-notifier
+alexandr    2094  0.0  0.0   2888  1856 ?        S    10:48   0:00 /bin/sh /snap/pycharm-community/291/bin/pycharm.sh
+alexandr    2132 41.5 15.7 6884620 1771228 ?     Sl   10:48  25:24 /snap/pycharm-community/291/jbr/bin/java -classpath /snap/pycharm-community/291/lib/util.jar:/snap/pycharm-community/291/lib/app.jar:/snap/pycharm-community/291/lib/3rd-party-rt.jar:/snap/pycharm-community/291/lib/jna.jar:/snap/pycharm-community/291/lib/platform-statistics-devkit.jar:/snap/pycharm-community/291/lib/jps-model.jar:/snap/pycharm-community/291/lib/rd-core.jar:/snap/pycharm-community/291/lib/rd-framework.jar:/snap/pycharm-community/291/lib/stats.jar:/snap/pycharm-community/291/lib/protobuf.jar:/snap/pycharm-community/291/lib/external-system-rt.jar:/snap/pycharm-community/291/lib/forms_rt.jar:/snap/pycharm-community/291/lib/intellij-test-discovery.jar:/snap/pycharm-community/291/lib/rd-swing.jar:/snap/pycharm-community/291/lib/groovy.jar:/snap/pycharm-community/291/lib/annotations-java5.jar:/snap/pycharm-community/291/lib/byte-buddy-agent.jar:/snap/pycharm-community/291/lib/error-prone-annotations.jar:/snap/pycharm-community/291/lib/externalProcess-rt.jar:/snap/pycharm-community/291/lib/grpc-netty-shaded.jar:/snap/pycharm-community/291/lib/intellij-coverage-agent-1.0.656.jar:/snap/pycharm-community/291/lib/jetbrains-annotations.jar:/snap/pycharm-community/291/lib/jsch-agent.jar:/snap/pycharm-community/291/lib/junit4.jar:/snap/pycharm-community/291/lib/junixsocket-core.jar:/snap/pycharm-community/291/lib/lz4-java.jar:/snap/pycharm-community/291/lib/platform-objectSerializer-annotations.jar:/snap/pycharm-community/291/lib/pty4j.jar:/snap/pycharm-community/291/lib/rd-text.jar:/snap/pycharm-community/291/lib/util_rt.jar:/snap/pycharm-community/291/lib/winp.jar:/snap/pycharm-community/291/lib/dbus-java-3.2.1.jar:/snap/pycharm-community/291/lib/java-utils-1.0.6.jar:/snap/pycharm-community/291/lib/jnr-unixsocket-0.23.jar:/snap/pycharm-community/291/lib/jnr-ffi-2.1.10.jar:/snap/pycharm-community/291/lib/jffi-1.2.19.jar:/snap/pycharm-community/291/lib/jffi-1.2.19-native.jar:/snap/pycharm-community/291/lib/asm-7.1.jar:/snap/pycharm-community/291/lib/asm-commons-7.1.jar:/snap/pycharm-community/291/lib/asm-analysis-7.1.jar:/snap/pycharm-community/291/lib/asm-tree-7.1.jar:/snap/pycharm-community/291/lib/asm-util-7.1.jar:/snap/pycharm-community/291/lib/jnr-a64asm-1.0.0.jar:/snap/pycharm-community/291/lib/jnr-x86asm-1.0.2.jar:/snap/pycharm-community/291/lib/jnr-constants-0.9.12.jar:/snap/pycharm-community/291/lib/jnr-enxio-0.21.jar:/snap/pycharm-community/291/lib/jnr-posix-3.0.50.jar -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=512m -XX:+IgnoreUnrecognizedVMOptions -XX:+UseG1GC -XX:SoftRefLRUPolicyMSPerMB=50 -XX:CICompilerCount=2 -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -ea -Dsun.io.useCanonCaches=false -Djdk.http.auth.tunneling.disabledSchemes="" -Djdk.attach.allowAttachSelf=true -Djdk.module.illegalAccess.silent=true -Dkotlinx.coroutines.debug=off -Dsun.tools.attach.tmp.only=true -Xmx1376m -XX:ErrorFile=/home/alexandr/java_error_in_pycharm_%p.log -XX:HeapDumpPath=/home/alexandr/java_error_in_pycharm_.hprof -Djb.vmOptionsFile=/home/alexandr/.config/JetBrains/PyCharmCE2022.1/pycharm64.vmoptions -Djava.system.class.loader=com.intellij.util.lang.PathClassLoader -Didea.strict.classpath=true -Didea.vendor.name=JetBrains -Didea.paths.selector=PyCharmCE2022.1 -Didea.platform.prefix=PyCharmCore -Dsplash=true com.intellij.idea.Main
+alexandr    2160  4.2  0.6 225296 74860 ?        S    10:49   2:37 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.3R98P1 -listen 4 -listen 5 -displayfd 6 -initfd 7
+alexandr    2168  0.0  0.6 532072 67900 ?        Ssl  10:49   0:00 /usr/libexec/gsd-xsettings
+alexandr    2194  0.1  0.2 202676 24944 ?        Sl   10:49   0:07 /usr/libexec/ibus-x11
+alexandr    2228  0.0  0.0   4028  2296 ?        S    10:49   0:00 /snap/pycharm-community/291/bin/fsnotifier
+alexandr    2235  0.0  0.4 274580 54636 ?        S    10:49   0:00 /snap/pycharm-community/291/jbr/lib/jcef_helper --type=zygote --no-zygote-sandbox --disable-in-process-stack-traces --no-sandbox --force-device-scale-factor=1.0 --locales-dir-path=/snap/pycharm-community/291/jbr/lib/locales --log-severity=disable --resources-dir-path=/snap/pycharm-community/291/jbr/lib --lang=en-US --user-data-dir=/home/alexandr/.config/cef_user_data --log-file=/home/alexandr/jcef_2132.log
+alexandr    2236  0.0  0.4 274580 55376 ?        S    10:49   0:00 /snap/pycharm-community/291/jbr/lib/jcef_helper --type=zygote --disable-in-process-stack-traces --no-sandbox --force-device-scale-factor=1.0 --locales-dir-path=/snap/pycharm-community/291/jbr/lib/locales --log-severity=disable --resources-dir-path=/snap/pycharm-community/291/jbr/lib --lang=en-US --user-data-dir=/home/alexandr/.config/cef_user_data --log-file=/home/alexandr/jcef_2132.log
+alexandr    2247  0.0  0.8 904888 94016 ?        Sl   10:49   0:02 /snap/pycharm-community/291/jbr/lib/jcef_helper --type=gpu-process --field-trial-handle=11294989409149798813,7704405169822380628,131072 --disable-features=SpareRendererForSitePerProcess --no-sandbox --locales-dir-path=/snap/pycharm-community/291/jbr/lib/locales --log-severity=disable --resources-dir-path=/snap/pycharm-community/291/jbr/lib --lang=en-US --user-data-dir=/home/alexandr/.config/cef_user_data --gpu-preferences=UAAAAAAAAAAgAAAIAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABgAAAAAAAAAGAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAA= --disable-in-process-stack-traces --log-file=/home/alexandr/jcef_2132.log --shared-files
+alexandr    2257  0.0  0.5 770900 66396 ?        Sl   10:49   0:00 /snap/pycharm-community/291/jbr/lib/jcef_helper --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=11294989409149798813,7704405169822380628,131072 --disable-features=SpareRendererForSitePerProcess --lang=en-US --service-sandbox-type=none --no-sandbox --locales-dir-path=/snap/pycharm-community/291/jbr/lib/locales --log-severity=disable --resources-dir-path=/snap/pycharm-community/291/jbr/lib --lang=en-US --user-data-dir=/home/alexandr/.config/cef_user_data --disable-in-process-stack-traces --log-file=/home/alexandr/jcef_2132.log --shared-files=v8_context_snapshot_data:100
+alexandr    2455  0.7  2.0 34114136 231652 ?     SLl  10:49   0:25 /opt/google/chrome/chrome --enable-crashpad
+alexandr    2461  0.0  0.0  17164  1052 ?        S    10:49   0:00 cat
+alexandr    2462  0.0  0.0  17164  1008 ?        S    10:49   0:00 cat
+alexandr    2465  0.0  0.0 33575804 3456 ?       Sl   10:49   0:00 /opt/google/chrome/chrome_crashpad_handler --monitor-self --monitor-self-annotation=ptype=crashpad-handler --database=/home/alexandr/.config/google-chrome/Crash Reports --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=lsb-release=Ubuntu 22.04 LTS --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=103.0.5060.134 --initial-client-fd=5 --shared-client-connection
+alexandr    2467  0.0  0.0 33567592 1596 ?       Sl   10:49   0:00 /opt/google/chrome/chrome_crashpad_handler --no-periodic-tasks --monitor-self-annotation=ptype=crashpad-handler --database=/home/alexandr/.config/google-chrome/Crash Reports --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=lsb-release=Ubuntu 22.04 LTS --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=103.0.5060.134 --initial-client-fd=4 --shared-client-connection
+alexandr    2474  0.0  0.5 33837260 58760 ?      S    10:49   0:00 /opt/google/chrome/chrome --type=zygote --no-zygote-sandbox --enable-crashpad --crashpad-handler-pid=2465 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --enable-crashpad
+alexandr    2475  0.0  0.5 33837248 59436 ?      S    10:49   0:00 /opt/google/chrome/chrome --type=zygote --enable-crashpad --crashpad-handler-pid=2465 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --enable-crashpad
+alexandr    2476  0.0  0.0 33563244 4204 ?       S    10:49   0:00 /opt/google/chrome/nacl_helper
+alexandr    2479  0.0  0.1 33837272 16640 ?      S    10:49   0:00 /opt/google/chrome/chrome --type=zygote --enable-crashpad --crashpad-handler-pid=2465 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --enable-crashpad
+alexandr    2505  0.0  1.2 34123480 141668 ?     Sl   10:49   0:03 /opt/google/chrome/chrome --type=gpu-process --enable-crashpad --crashpad-handler-pid=2465 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --gpu-preferences=WAAAAAAAAAAgAAAIAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAABAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --shared-files --field-trial-handle=0,i,5780967931718763444,1964284406301509584,131072
+alexandr    2506  0.0  0.8 33883532 97868 ?      Sl   10:49   0:02 /opt/google/chrome/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --enable-crashpad --crashpad-handler-pid=2465 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,5780967931718763444,1964284406301509584,131072 --enable-crashpad
+alexandr    2516  0.0  0.4 33878652 46668 ?      Sl   10:49   0:00 /opt/google/chrome/chrome --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=utility --enable-crashpad --crashpad-handler-pid=2465 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,5780967931718763444,1964284406301509584,131072
+alexandr    2523  0.0  0.2 34029588 27888 ?      S    10:49   0:00 /opt/google/chrome/chrome --type=broker
+alexandr    2538  0.5  1.6 1179157224 183932 ?   Sl   10:49   0:19 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2465 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=10 --launch-time-ticks=138533746 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,5780967931718763444,1964284406301509584,131072
+alexandr    2600  0.3  1.1 1179112332 132172 ?   Sl   10:49   0:11 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2465 --enable-crash-reporter=, --extension-process --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=5 --launch-time-ticks=138982824 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,5780967931718763444,1964284406301509584,131072
+alexandr    2626  0.0  0.4 1174868608 50860 ?    Sl   10:49   0:00 /opt/google/chrome/chrome --type=utility --utility-sub-type=proxy_resolver.mojom.ProxyResolverFactory --lang=en-US --service-sandbox-type=service --enable-crashpad --crashpad-handler-pid=2465 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,5780967931718763444,1964284406301509584,131072
+alexandr    2632  0.1  1.5 1179121424 180396 ?   Sl   10:49   0:06 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2465 --enable-crash-reporter=, --extension-process --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=6 --launch-time-ticks=139293030 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,5780967931718763444,1964284406301509584,131072
+alexandr    2646  0.1  1.6 1179121424 181800 ?   Sl   10:49   0:06 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2465 --enable-crash-reporter=, --extension-process --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=7 --launch-time-ticks=139394152 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,5780967931718763444,1964284406301509584,131072
+alexandr    2658  0.0  0.9 1179112332 102744 ?   Sl   10:49   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2465 --enable-crash-reporter=, --extension-process --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=8 --launch-time-ticks=139462091 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,5780967931718763444,1964284406301509584,131072
+alexandr    2670  0.0  0.6 1179111168 69152 ?    Sl   10:49   0:00 /opt/google/chrome/chrome --type=renderer --enable-crashpad --crashpad-handler-pid=2465 --enable-crash-reporter=, --display-capture-permissions-policy-allowed --change-stack-guard-on-fork=enable --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=12 --launch-time-ticks=139554846 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,5780967931718763444,1964284406301509584,131072
+root        2974  0.0  0.0      0     0 ?        I    11:03   0:02 [kworker/u8:0-events_unbound]
+root        3092  0.0  0.0      0     0 ?        I    11:11   0:00 [kworker/0:1-events]
+root        3119  0.0  0.0      0     0 ?        I    11:12   0:01 [kworker/u8:1-ext4-rsv-conversion]
+root        3173  0.0  0.0      0     0 ?        I    11:17   0:00 [kworker/2:0-events]
+root        3343  0.0  0.0      0     0 ?        I    11:22   0:00 [kworker/0:0-events]
+root        3440  0.1  0.0      0     0 ?        I    11:26   0:01 [kworker/1:1-events]
+root        3554  0.0  0.0      0     0 ?        I    11:31   0:00 [kworker/3:1]
+alexandr    3583  0.0  0.2 569664 27980 ?        Sl   11:32   0:00 /snap/pycharm-community/291/jbr/lib/jcef_helper --type=utility --utility-sub-type=storage.mojom.StorageService --field-trial-handle=11294989409149798813,7704405169822380628,131072 --disable-features=SpareRendererForSitePerProcess --lang=en-US --service-sandbox-type=utility --no-sandbox --locales-dir-path=/snap/pycharm-community/291/jbr/lib/locales --log-severity=disable --resources-dir-path=/snap/pycharm-community/291/jbr/lib --lang=en-US --user-data-dir=/home/alexandr/.config/cef_user_data --disable-in-process-stack-traces --log-file=/home/alexandr/jcef_2132.log --shared-files=v8_context_snapshot_data:100
+alexandr    3594  0.0  0.6 26180040 69472 ?      Sl   11:32   0:00 /snap/pycharm-community/291/jbr/lib/jcef_helper --type=renderer --locales-dir-path=/snap/pycharm-community/291/jbr/lib/locales --log-severity=disable --resources-dir-path=/snap/pycharm-community/291/jbr/lib --user-data-dir=/home/alexandr/.config/cef_user_data --disable-in-process-stack-traces --no-sandbox --force-device-scale-factor=1.0 --log-file=/home/alexandr/jcef_2132.log --field-trial-handle=11294989409149798813,7704405169822380628,131072 --disable-features=SpareRendererForSitePerProcess --lang=en-US --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=5 --launch-time-ticks=2715728391 --shared-files=v8_context_snapshot_data:100
+root        3767  0.1  0.0      0     0 ?        I    11:38   0:01 [kworker/u8:2-ext4-rsv-conversion]
+root        3909  0.0  0.0      0     0 ?        I    11:43   0:00 [kworker/1:0]
+root        3993  0.0  0.0      0     0 ?        I    11:45   0:00 [kworker/u8:3]
+alexandr    4168  0.0  0.0  28816  9832 ?        S    11:50   0:00 /usr/bin/python3.10 /home/alexandr/dev/linux_python_proj/parser_ps_aux.py
+alexandr    4169  0.0  0.0  21324  3612 ?        R    11:50   0:00 ps aux

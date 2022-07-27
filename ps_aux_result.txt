@@ -1,0 +1,8 @@
+Пользователи системы: ['root', 'systemd+', 'avahi', 'message+', 'syslog', 'lp', 'kernoops', 'alexandr', 'rtkit', 'colord']
+Процессов всего: 233
+CPU %: 51.60000000000001
+Memory %: 45.300000000000004
+Процессов для каждого пользователя:  {'root': 119, 'systemd+': 4, 'avahi': 3, 'message+': 2, 'syslog': 2, 'lp': 4, 'kernoops': 3, 'alexandr': 102, 'rtkit': 2, 'colord': 2}
+Всего MEMORY: 5872184.0
+Больше всего используется MEMORY: <</snap/pycharm-community/291/jbr/bin/java>>: память = 1771228.0
+Больше всего используется CPU: <</snap/pycharm-community/291/jbr/bin/java>>: % = 41.5
