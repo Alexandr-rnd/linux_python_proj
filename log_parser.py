@@ -5,7 +5,7 @@ import glob
 import argparse
 
 parser = argparse.ArgumentParser(description='Process access.log')
-parser.add_argument('-f', dest='file', action='store', default="C:\dev\linux_python_proj\logs", help='Path to logfile')
+parser.add_argument('-f', dest='file', action='store', default="/home/GoorooG/DevMain/linux_python_proj", help='Path to logfile')
 args = parser.parse_args()
 
 METHODS = {"GET": 0, "POST": 0, "PUT": 0, "DELETE": 0,
